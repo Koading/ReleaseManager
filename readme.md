@@ -1,6 +1,6 @@
 # how to run
 
-mwnw clean install
+mvnw clean install
 
 mvnw spring-boot:run
 
